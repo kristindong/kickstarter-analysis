@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Kickstarter projection (Challenge 1) analysis
+Kickstarter data analysis (Challenge 1)
