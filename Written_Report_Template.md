@@ -14,13 +14,14 @@ To make the data more useful, two adjustments had to be made before we can start
 The Excel data and summaries can be found in this link [](url)
 
 ### Analysis of Outcomes Based on Launch Date
-To show Theater outcomes by launch date, a pivot table was used to tabulate the theater campaign outcomes over all available data years. The data was grouped by calender month, and a simple line graph was added to help visualize the summary.
+To show Theater outcomes by launch date, a pivot table was used to tabulate the theater campaign outcomes over all available data years. The data was grouped by calender month, and a simple line graph was used to help visualize the summary.
 
-![Theater_Outcomes_vs_Launch](/assets/images/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 We are also interested in outcomes of fundraising for plays based on their funding goal amounts. To do this, we divided the data into 12 goal ranges and calculated the success, failure and cancel rates within each goal range. A graph of the outcome in percentages based on goal ranges is used to visualize the summary.
 
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ## Results
 Two conclusions about the Outcomes based on Launch Date:
