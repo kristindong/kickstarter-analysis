@@ -11,7 +11,7 @@ To make the data more useful, two adjustments had to be made before we can start
 1. The campaign launch and end dates in the raw data had to be converted into readable date format using Excel formulas
 2. Categories had to be separated into parent and subcategories
 
-The Excel data and summaries can be found in this link [](url)
+The Excel data and summaries can be found here https://github.com/kristindong/kickstarter-analysis/blob/62e1976782ed354c171c9145852a2a6cb11caa58/Kickstarter_Challenge.zip
 
 ### Analysis of Outcomes Based on Launch Date
 To show Theater outcomes by launch date, a pivot table was used to tabulate the theater campaign outcomes over all available data years. The data was grouped by calender month, and a simple line graph was used to help visualize the summary.
